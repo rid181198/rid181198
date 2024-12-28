@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m Ridhesh. I like to program stuff, solve problems, work on big datasets, and build ML models and web applications. This GitHub profile 
+🌱 I’m Ridhesh. I like to program stuff, solve problems, work on big datasets, build ML models and web applications and learn new techs. This GitHub profile 
 includes some of the projects I worked on. Besides that, I love sports, cycling, painting, and chess in my free time.
 
 I want to mention the key highlighted projects: Flask stock prediction app, Flask market, GoDaddy micro business density
